@@ -1,4 +1,4 @@
-🌍 Delhi Air Quality Analysis (2021–2024)
+**🌍 Delhi Air Quality Analysis (2021–2024)**
 📌 Project Description
 
 This end-to-end Data Analytics project analyzes air quality trends in Delhi from 2021 to 2024 using SQL, Python, and Power BI. The objective is to identify key pollution drivers, understand seasonal variations, and generate actionable insights to support environmental decision-making.
@@ -18,14 +18,14 @@ Kunsh Bhatia (2024)
 Delhi Air Quality Dataset – Kaggle
 🔗 https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset?select=final_dataset.csv
 
-🔧 Tools & Technologies  Used
+**🔧 Tools & Technologies  Used**
 Tool	Purpose
 Excel:	Basic data inspection, initial cleaning, and formatting
 SQL:	Data extraction, filtering, aggregation
 Python:	Data cleaning, EDA, feature engineering
 Power BI:	Dashboard creation & visualization
 
-📊 Key Insights
+**📊 Key Insights**
 PM10 and PM2.5 are the dominant contributors to poor air quality
 AQI peaks during winter months (Nov–Jan) due to weather and external factors
 Weekdays show slightly higher pollution than weekends (traffic impact)
@@ -34,7 +34,7 @@ NO₂ levels indicate strong correlation with vehicular emissions
 Sudden AQI spikes observed during festival periods (e.g., Diwali)
 A slight improvement trend is observed in 2024 compared to previous years
 
-❓ Business Questions Addressed
+**❓ Business Questions Addressed**
 1.	Which pollutants are the main drivers of poor AQI? 
 2.	During which period is AQI the worst? 
 3.	What is the overall AQI condition across most days? 
@@ -42,7 +42,7 @@ A slight improvement trend is observed in 2024 compared to previous years
 5.	What are the main sources of NO₂ pollution? 
 6.	What causes sudden spikes in AQI?
 
-💡 Recommendations
+**💡 Recommendations**
 
 1. Main Pollutants
 
@@ -87,5 +87,5 @@ Restrict firecracker usage and promote eco-friendly options
 Deploy emergency measures and provide real-time alerts
 campaigns
 
-📸 Dashboard Preview
+**📸 Dashboard Preview**
 <img width="847" height="691" alt="air -1" src="https://github.com/user-attachments/assets/2d11596e-3391-478f-8756-abd5fa89f529" />
