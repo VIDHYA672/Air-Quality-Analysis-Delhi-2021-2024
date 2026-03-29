@@ -1,40 +1,91 @@
-# Data-analytics-Project
-Delhi Air Quality Analysis (2021–2024)
+🌍 Delhi Air Quality Analysis (2021–2024)
+📌 Project Description
 
-This project analyzes Delhi’s air quality trends using SQL, Python, and Power BI, based on the Delhi Air Quality Dataset by Kunsh Bhatia (2024).
-The goal is to understand pollution patterns, AQI variations, and seasonal impacts over four years.
+This end-to-end Data Analytics project analyzes air quality trends in Delhi from 2021 to 2024 using SQL, Python, and Power BI. The objective is to identify key pollution drivers, understand seasonal variations, and generate actionable insights to support environmental decision-making.
 
+The project demonstrates a complete analytics pipeline—from data extraction and cleaning to visualization and business recommendations.
+
+🎯 Objectives
+Analyze trends in Air Quality Index (AQI) over time
+Identify major pollutants affecting air quality
+Study seasonal and weekly pollution patterns
+Detect anomalies such as sudden AQI spikes
+Provide data-driven recommendations for pollution control
 📌 Dataset Source
 
-Kunsh Bhatia. (2024). Delhi Air Quality Dataset. Kaggle.
-Dataset Link: https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset?select=final_dataset.csv
+Kunsh Bhatia (2024)
+Delhi Air Quality Dataset – Kaggle
+🔗 https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset?select=final_dataset.csv
 
-📊 Project Overview
+🔧 Tools & Technologies  Used
+Tool	Purpose
+Excel:	Basic data inspection, initial cleaning, and formatting
+SQL:	Data extraction, filtering, aggregation
+Python:	Data cleaning, EDA, feature engineering
+Power BI:	Dashboard creation & visualization
 
-> This project performs end-to-end analysis including:
+📊 Key Insights
+PM10 and PM2.5 are the dominant contributors to poor air quality
+AQI peaks during winter months (Nov–Jan) due to weather and external factors
+Weekdays show slightly higher pollution than weekends (traffic impact)
+AQI improves during monsoon season due to rainfall
+NO₂ levels indicate strong correlation with vehicular emissions
+Sudden AQI spikes observed during festival periods (e.g., Diwali)
+A slight improvement trend is observed in 2024 compared to previous years
 
-> Data extraction using SQL
+❓ Business Questions Addressed
+1.	Which pollutants are the main drivers of poor AQI? 
+2.	During which period is AQI the worst? 
+3.	What is the overall AQI condition across most days? 
+4.	How does AQI vary across different seasons? 
+5.	What are the main sources of NO₂ pollution? 
+6.	What causes sudden spikes in AQI?
 
-> Data cleaning, processing, and visualization using Python
+💡 Recommendations
 
-> Dashboard creation using Power BI
+1. Main Pollutants
 
-The combination of these tools provides a complete analytical workflow—from raw data to insights.
+Insight: PM10 & PM2.5 dominate
+Action:
 
-🔧 Tools & Technologies
+Control construction dust and industrial emissions
+Promote cleaner fuels and increase urban greenery
+2. Worst Period
 
-SQL – Data extraction, filtering, and aggregation
+Insight: Winter (Nov–Jan)
+Action:
 
-Python – Data cleaning, analysis, and trend visualizations
+Apply traffic restrictions and limit high-emission industries
+Increase public transport and issue health advisories
+3. Overall Condition
 
-Power BI – Interactive dashboards and visual summaries
+Insight: Mostly “Moderate” AQI
+Action:
 
-📈 Key Insights
+Run awareness campaigns and promote work-from-home
+Continuously monitor AQI and take preventive actions
+4. Seasonal Variation
 
-PM10 and PM2.5 are major contributors to poor AQI.
+Insight: Winter–PM high, Summer–Ozone high, Monsoon–Better AQI
+Action:
 
-Winter months show the highest pollution levels.
+Implement season-based pollution control strategies
+Focus on PM control in winter and ozone sources in summer
+5. NO₂ Source
 
-Weekdays are slightly more polluted than weekends.
+Insight: Vehicular emissions
+Action:
 
-AQI improved slightly in 2024 compared to previous years.
+Promote electric vehicles and improve public transport
+Reduce traffic congestion through better traffic management
+6. AQI Spikes
+
+Insight: Festival periods (Diwali)
+Action:
+
+Restrict firecracker usage and promote eco-friendly options
+Deploy emergency measures and provide real-time alerts
+
+campaigns
+📸 Dashboard Preview
+<img width="847" height="691" alt="air -1" src="https://github.com/user-attachments/assets/2d11596e-3391-478f-8756-abd5fa89f529" />
