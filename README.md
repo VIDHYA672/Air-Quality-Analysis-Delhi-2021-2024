@@ -34,7 +34,16 @@ The project demonstrates a complete analytics pipeline—from data extraction an
   Used for dashboard creation and visualization  
 
 ---
+## **Business Questions Addressed**
 
+1. Which pollutants are the main drivers of poor AQI?  
+2. During which period is AQI the worst?  
+3. What is the overall AQI condition across most days?  
+4. How does AQI vary across different seasons?  
+5. What are the main sources of NO2 pollution?  
+6. What causes sudden spikes in AQI?
+
+--
 ## **Recommendations**
 
 ### **1. Main Pollutants**
@@ -105,4 +114,10 @@ The project demonstrates a complete analytics pipeline—from data extraction an
 - Restrict firecracker usage and promote eco-friendly options  
   to control sudden pollution spikes  
 - Deploy emergency measures and provide real-time AQI alerts  
-  to protect public health  
+  to protect public health
+
+
+--
+## **Dashboard Snapshot**
+<img width="847" height="691" alt="air -1" src="https://github.com/user-attachments/assets/a535901b-7a02-4de3-935e-f257a637decc" />
+
