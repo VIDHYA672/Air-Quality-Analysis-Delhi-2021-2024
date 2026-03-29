@@ -61,31 +61,30 @@ Increase public transport and issue health advisories
 
 Insight: Mostly “Moderate” AQI
 Action:
-
 Run awareness campaigns and promote work-from-home
 Continuously monitor AQI and take preventive actions
+
 4. Seasonal Variation
 
 Insight: Winter–PM high, Summer–Ozone high, Monsoon–Better AQI
 Action:
-
 Implement season-based pollution control strategies
 Focus on PM control in winter and ozone sources in summer
+
 5. NO₂ Source
 
 Insight: Vehicular emissions
 Action:
-
 Promote electric vehicles and improve public transport
 Reduce traffic congestion through better traffic management
+
 6. AQI Spikes
 
 Insight: Festival periods (Diwali)
 Action:
-
 Restrict firecracker usage and promote eco-friendly options
 Deploy emergency measures and provide real-time alerts
-
 campaigns
+
 📸 Dashboard Preview
 <img width="847" height="691" alt="air -1" src="https://github.com/user-attachments/assets/2d11596e-3391-478f-8756-abd5fa89f529" />
