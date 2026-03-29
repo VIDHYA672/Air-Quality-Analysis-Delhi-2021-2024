@@ -7,9 +7,11 @@ The objective is to identify key pollution drivers, understand seasonal variatio
 
 The project demonstrates a complete analytics pipeline—from data extraction and cleaning to visualization and business recommendations.
 
---
-## **📌 Dataset Source **
-Kunsh Bhatia (2024) Delhi Air Quality Dataset – Kaggle 🔗 https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset?select=final_dataset.csv
+## **Dataset Source**
+
+- Kunsh Bhatia (2024)  
+- Delhi Air Quality Dataset – Kaggle  
+- https://www.kaggle.com/datasets/kunshbhatia/delhi-air-quality-dataset?select=final_dataset.csv  
 
 --
 
