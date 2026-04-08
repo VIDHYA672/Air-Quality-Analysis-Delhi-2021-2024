@@ -2,10 +2,9 @@
 
 ## **Project Description**
 
-This end-to-end Data Analytics project analyzes air quality trends in Delhi from 2021 to 2024 using SQL, Python, and Power BI. 
-The objective is to identify key pollution drivers, understand seasonal variations, and generate actionable insights to support environmental decision-making.
+In the recent year, Delhi has recorded some of the highest air pollution levels in India, frequently highlighted in news reports and environmental studies. This growing concern has made air quality analysis increasingly important for public health and policy decisions.
 
-The project demonstrates a complete analytics pipeline—from data extraction and cleaning to visualization and business recommendations.
+This project analyzes air quality trends in Delhi from 2021 to 2024 using SQL, Python, and Power BI. The objective is to identify key pollution drivers, understand seasonal variations, and generate actionable insights to support better environmental decision-making. The project includes data cleaning, exploratory analysis, and interactive visualization to uncover patterns in major pollutants over time.
 
 ## **Dataset Source**
 
